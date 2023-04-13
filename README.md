@@ -4,12 +4,6 @@ An AI-based HR assistant chatbot powered by ChatGPT can revolutionize the way HR
 
 The chatbot can be trained on various HR policies, procedures, and guidelines such as employee onboarding, payroll, benefits, leave policies, performance reviews, and more. It can also be trained on job roster management, including scheduling and assigning tasks to employees.
 
-With the ability to understand natural language and provide accurate responses, the HR chatbot can save HR departments significant time and effort by answering frequently asked questions, guiding employees through the onboarding process, providing updates on company policies and procedures, and handling inquiries about job rosters.
-
-Additionally, the HR assistant chatbot can assist with the scheduling of interviews, provide updates on job openings, and assist with other HR-related tasks such as tracking employee attendance and handling employee grievances.
-
-Overall, an AI-based HR assistant chatbot can enhance HR operations by providing timely and accurate responses to queries, reducing manual workloads, and increasing efficiency.
-
 Follow below instruction to use this HR assistant tool:
 1. Take clone of this repository.
 2. Install Python3 (Pip3) on your computer. 
