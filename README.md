@@ -7,6 +7,7 @@ The chatbot can be trained on various HR policies, procedures, and guidelines su
 *Follow below instruction to use this HR assistant tool:
 1. Take clone of this repository.
 2. Install Python3 (Pip3) on your computer. Follow below URL to setup python.
+        ##
         https://realpython.com/installing-python/
 3. To check if Python is properly installed, open the Terminal on your computer and check version.
         python3 --version
